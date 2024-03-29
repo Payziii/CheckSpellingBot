@@ -1,0 +1,16 @@
+{
+  "name": "checkspellingbot",
+  "version": "1.0.0",
+  "description": "Бот для проекта",
+  "main": "bot.js",
+  "scripts": {
+    "start": "npm i && node bot"
+  },
+  "author": "Payziii",
+  "license": "ISC",
+  "dependencies": {
+    "@grammyjs/conversations": "^1.2.0",
+    "dotenv": "^16.4.5",
+    "grammy": "^1.21.1"
+  }
+}
